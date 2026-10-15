@@ -69,7 +69,7 @@ The script uses the latest date present in the dataset and summarizes the seven-
 
 The Looker Studio report is built separately in the user's Google account. The screenshot in `assets/` is a static preview; it is not an interactive dashboard link. Add a shareable Looker Studio URL here only after setting appropriate access permissions:
 
-`Dashboard URL: TODO — add your shareable Looker Studio report URL`
+`Dashboard URL: https://datastudio.google.com/reporting/ebf58c4c-8863-4dc8-9baa-c84db6e16388`
 
 ## Limitations and responsible presentation
 
